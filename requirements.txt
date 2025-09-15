@@ -1,0 +1,16 @@
+# Core Data Science & Analysis
+pandas
+numpy
+scikit-learn
+statsmodels
+
+# Data Acquisition & Web Scraping
+requests
+beautifulsoup4
+
+# Visualization
+matplotlib
+seaborn
+
+# Specific for Trading Data & Time Series
+yfinance

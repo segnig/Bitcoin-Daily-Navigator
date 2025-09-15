@@ -1,0 +1,6 @@
+venv
+config/*
+
+.venv
+
+docs
